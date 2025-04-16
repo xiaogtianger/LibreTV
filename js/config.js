@@ -106,11 +106,6 @@ const API_SITES = {
         api: 'https://apilsbzy1.com',
         name: 'lsb资源',
         adult: true
-    },
-    taohua: {
-        api: 'https://thzy1.me',
-        name: '桃花',
-        adult: true
     },    
     huangcang: {
         api: 'https://hsckzy.vip',

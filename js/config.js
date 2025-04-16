@@ -107,6 +107,11 @@ const API_SITES = {
         name: 'lsb资源',
         adult: true
     },
+    lsb: {
+        api: 'https://thzy1.me/api.php/provide/vod/?ac=list',
+        name: '桃花',
+        adult: true
+    },    
     huangcang: {
         api: 'https://hsckzy.vip',
         name: '黄色仓库',

@@ -107,8 +107,8 @@ const API_SITES = {
         name: 'lsb资源',
         adult: true
     },
-    lsb: {
-        api: 'https://thzy1.me/api.php/provide/vod/?ac=list',
+    taohua: {
+        api: 'https://thzy1.me',
         name: '桃花',
         adult: true
     },    
